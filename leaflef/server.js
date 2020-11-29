@@ -1,4 +1,4 @@
-//http://localhost:8099/?lon=22.318663093040986&lat=114.17482973741627
+//http://localhost:8099/?lat=22.318663093040986&lon=114.17482973741627
 
 const express = require('express');
 const app = express();
